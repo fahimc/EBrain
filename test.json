@@ -1,0 +1,32 @@
+{
+	"classifier":{
+		"classFeatures":{
+			"ric":{
+				"0":2,"1":2
+			}
+			},
+			"classTotals":{
+				"ric":2
+				},
+				"totalExamples":2,
+				"smoothing":1
+				},
+				"docs":[
+				{
+					"label":"ric",
+					"text":["latest","price"]
+				}
+				],
+				"features":{
+					"latest":1,
+					"price":1
+					},
+					"stemmer":{},
+					"lastAdded":1,
+					"events":{
+						"domain":null,
+						"_events":{},
+						"_maxListeners":10
+					}
+				}
+				

@@ -1,0 +1,11 @@
+{
+  "name": "machine",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "dclassify": "*"
+  },
+  "devDependencies": {
+  }
+}
+  
